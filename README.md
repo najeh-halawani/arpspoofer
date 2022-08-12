@@ -1,3 +1,3 @@
-## Simple Arp spoofer :) with a lot of bug :P
+## Simple Arp spoofer :) :P
 
 ###### From archive
